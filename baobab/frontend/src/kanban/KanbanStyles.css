@@ -1,0 +1,68 @@
+.CardNoHover {
+    opacity: 1.0 !important;
+}
+
+.kbc {
+    margin-left: 10px;
+    top: 3.5px;
+
+}
+
+.Modalheader {
+    display: inline-flex;
+    justify-content: center;
+}
+
+.ModalCloseIcon {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.ModalSubHeading {
+    margin-bottom: 0px;;
+}
+
+.KanbanDeleteButton {
+    padding: 10px;
+    justify-content: center;
+    width: 42px;
+    height: 55px;
+}
+
+.KanbanButton {
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    width: 55px;
+    height: 55px;
+}
+
+.KanbanPNGButton {
+    padding: 5px;
+    padding-inline-start: 25px;
+    padding-inline-end: 25px;
+}
+
+.KanbanPNGButton :hover {
+    cursor: pointer;
+    opacity: 0.75;
+}
+
+.KanbanButton :hover {
+    cursor: pointer;
+    opacity: 0.75;
+}
+
+.KanbanDeleteButton :hover {
+    cursor: pointer;
+    opacity: 0.75;
+}
+
+.Hoverable :hover {
+    background-color: rgba(194, 194, 194, 0.856);
+}
+
+.NormalLane {
+    width: 100px;
+}

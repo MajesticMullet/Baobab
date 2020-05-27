@@ -3,6 +3,38 @@
 Baobab is a tree based planning tool. The purpose of Baobab is to simplify and combine long term and short term planning. Our team overcame the drawbacks of currently available planning tools by creating a coherent product that allows users to effectively visualise their long term goal planning, whilst encouraging the management of low level tasks that are required to achieve the larger goals. Baobab is designed with usability, customisations and integrations in mind to provide a streamlined user experience.
 Baobab was created as a capstone project by UNSW students (Nanway Chen, Thomas Ho, Harry Brink, Alexander Jones, Conrad Martin)
 
+# Usage
+You can create sections of a tree to match the sections of your life. For example, University could be your root node and the main branches could be subjects and societies. 
+
+put a gif
+
+You can then connect these branches to queue nodes where you can create Kanban boards or nested trees.
+
+put a gif
+
+This is a Kanban board, here you're limited to only having one task in your doing row to maximise focus! 
+
+put a gif
+
+# Features
+- Creating multiple trees.
+
+- Baobot (Chatbot).
+
+- Gamification of Kanban Tasks.
+
+- User customistation.
+
+- Sexify Tree button.
+
+- Onboarding.
+
+
+# Contribution history
+
+
+Special thanks to Fora.digital 
+
 # Developer Documentation
 
 First of all, make sure you have Node.js installed. You can install it from from https://nodejs.org/en/. This installation includes npm.
@@ -11,7 +43,7 @@ First of all, make sure you have Node.js installed. You can install it from from
 
 ### Running the frontend
 
-1. Clone the repository from https://github.com/unsw-cse-comp3900-9900/capstone-project-jonny-sins-the-computer-scientist
+1. Clone the repository from https://github.com/MajesticMullet/Baobab 
 2. Make sure you are in the project directory.
 3. Run the following commands:
 - `cd baobab/frontend`

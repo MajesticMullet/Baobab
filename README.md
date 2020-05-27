@@ -1,7 +1,7 @@
 # Baobab
 
 Baobab is a tree based planning tool. The purpose of Baobab is to simplify and combine long term and short term planning. Our team overcame the drawbacks of currently available planning tools by creating a coherent product that allows users to effectively visualise their long term goal planning, whilst encouraging the management of low level tasks that are required to achieve the larger goals. Baobab is designed with usability, customisations and integrations in mind to provide a streamlined user experience.
-Baobab was created as a capstone project by UNSW students.
+Baobab was created as a capstone project by UNSW students (Nanway Chen, Thomas Ho, Harry Brink, Alexander Jones, Conrad Martin)
 
 # Developer Documentation
 

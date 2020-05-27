@@ -32,6 +32,7 @@ put a gif
 
 # Contribution history
 
+![alt text](https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/contributionHist.png)
 
 Special thanks to Fora.digital 
 

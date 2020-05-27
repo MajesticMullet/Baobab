@@ -33,7 +33,7 @@ put a gif
 # Contribution history
 
 <p align="center">
-  <img width="100%" height="100%" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/contributionHist.png">
+  <img width="500" height="630" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/contributionHist.png">
 </p>
 
 

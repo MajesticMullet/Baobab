@@ -36,7 +36,7 @@ ligma please!
 As you complete tasks in your kanban boards, the progress bar increases.
 
 <p align="center">
-  <img width="500" height="530" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/contributionHist.png">
+  <img width="500" height="530" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/a%20while%20to%20go.png">
 </p>
 
 - User customistation.

@@ -20,23 +20,41 @@ put a gif
 - Baobot (Chatbot).
 You can ask for help here ... or try and find the easter eggs (bugs = easter eggs) and ask for motivation.
 
-hello!
-
-help me!
-
-what is a kanban
-
-motivate me
-
-ligma please!
+<p align="center">
+  <img width="500" height="280" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gifs/chatBot.gif">
+</p>
 
 - Creating multiple trees.
 
 - Gamification of Kanban Tasks.
-As you complete tasks in your kanban boards, the progress bar increases.
+As you complete tasks in your kanban boards, the progress bar increases and you are encouraged by an extremely supportive message! Below is the progression as you complete a greater percentage of your tasks.
 
 <p align="center">
-  <img width="500" height="530" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/a%20while%20to%20go.png">
+  <img width="500" height="280" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/a%20while%20to%20go.png">
+</p>
+
+<p align="center">
+  <img width="500" height="280" src=https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/getting%20there.png">
+</p>
+
+<p align="center">
+  <img width="500" height="280" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/half%20way.png">
+</p>
+
+<p align="center">
+  <img width="500" height="280" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/half%20way.png">
+</p>
+
+<p align="center">
+  <img width="500" height="280" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/ramp%20it%20up.png">
+</p>
+
+<p align="center">
+  <img width="500" height="280" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/finish%20it.png">
+</p>
+
+<p align="center">
+  <img width="500" height="280" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/great%20finish.png">
 </p>
 
 - User customistation.

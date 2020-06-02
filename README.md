@@ -6,15 +6,21 @@ Baobab was created as a capstone project by UNSW students (Nanway Chen, Thomas H
 # Usage
 You can create sections of a tree to match the sections of your life. For example, University could be your root node and the main branches could be subjects and societies. 
 
-put a gif
+<p align="center">
+  <img width="600" height="500" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gifs/creating%20tree.gif">
+</p>
 
 You can then connect these branches to queue nodes where you can create Kanban boards or nested trees.
 
-put a gif
+<p align="center">
+  <img width="600" height="500" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gifs/queuenodes.gif">
+</p>
 
 This is a Kanban board, here you're limited to only having one task in your doing row to maximise focus! 
 
-put a gif
+<p align="center">
+  <img width="600" height="500" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gifs/kanban%20ur%20mum.gif">
+</p>
 
 # Additional Features
 - Baobot (Chatbot).
@@ -38,11 +44,13 @@ As you complete tasks in your kanban boards, the progress bar increases and you 
 
 <p align="center">
   <img width="470" height="280" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/a%20while%20to%20go.png">
-</p>
 
-<p align="center">
   <img width="470" height="280" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/getting%20there.png">
 </p>
+
+<!-- <p align="center">
+
+</p> -->
 
 <p align="center">
   <img width="470" height="280" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/half%20way.png">

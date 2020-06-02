@@ -7,19 +7,19 @@ Baobab was created as a capstone project by UNSW students (Nanway Chen, Thomas H
 You can create sections of a tree to match the sections of your life. For example, University could be your root node and the main branches could be subjects and societies. 
 
 <p align="center">
-  <img width="780" height="470" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gifs/creating%20tree.gif">
+  <img width="900" height="500" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gifs/creating%20tree.gif">
 </p>
 
 You can then connect these branches to queue nodes where you can create Kanban boards or nested trees.
 
 <p align="center">
-  <img width="780" height="470" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gifs/queuenodes.gif">
+  <img width="900" height="500" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gifs/queuenodes.gif">
 </p>
 
 This is a Kanban board, here you're limited to only having one task in your doing row to maximise focus! 
 
 <p align="center">
-  <img width="780" height="470" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gifs/kanban%20ur%20mum.gif">
+  <img width="900" height="500"" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gifs/kanban%20ur%20mum.gif">
 </p>
 
 # Additional Features
@@ -34,34 +34,31 @@ You can ask for help here ... or try and find the easter eggs (bugs = easter egg
 Add your own unique flair! 
 
 <p align="center">
-  <img width="780" height="470" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gifs/colourful%20babye.gif">
+  <img width="900" height="500" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gifs/colourful%20babye.gif">
 </p>
 
 
-- Sexify Tree button. <br />
-Sometimes when you're in the thick of organising your life, your tree can get a little messy. 
+- Sexify Tree button. Sometimes when you're in the thick of organising your life, your tree can get a little messy. 
 
 <p align="center">
-  <img width="780" height="470" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gifs/colourful%20babye.gif">
+  <img width="900" height="500" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gifs/sexyfy%20tree.gif">
 </p>
 
-- Onboarding. <br />
-Everyone needs help learning something new!
+- Onboarding. Everyone needs help learning something new!
 
 <p align="center">
-  <img width="780" height="470" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gifs/onboarding.gif">
+  <img width="900" height="500" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gifs/onboarding.gif">
 </p>
 
-- Gamification of Kanban Tasks. <br />
-As you complete tasks in your kanban boards, the progress bar increases and you are encouraged by an extremely supportive message! Below is the progression as you complete a greater percentage of your tasks.
+- Gamification of Kanban Tasks. As you complete tasks in your kanban boards, the progress bar increases and you are encouraged by an extremely supportive message! Below is the progression as you complete a greater percentage of your tasks.
 
 <p align="center">
-  <img width="470" height="280" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/a%20while%20to%20go.png"> <img width="470" height="280" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/getting%20there.png">
+  <img width="470" height="280" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/a%20while%20to%20go.png"> 
 </p>
 
-<!-- <p align="center">
-
-</p> -->
+<p align="center">
+  <img width="470" height="280" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/getting%20there.png">
+</p>
 
 <p align="center">
   <img width="470" height="280" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/half%20way.png">

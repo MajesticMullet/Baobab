@@ -16,27 +16,43 @@ This is a Kanban board, here you're limited to only having one task in your doin
 
 put a gif
 
-# Features
+# Additional Features
+- Baobot (Chatbot).
+You can ask for help here ... or try and find the easter eggs (bugs = easter eggs) and ask for motivation.
+
+hello!
+
+help me!
+
+what is a kanban
+
+motivate me
+
+ligma please!
+
 - Creating multiple trees.
 
-- Baobot (Chatbot).
-
 - Gamification of Kanban Tasks.
+As you complete tasks in your kanban boards, the progress bar increases.
+
+<p align="center">
+  <img width="500" height="530" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/contributionHist.png">
+</p>
 
 - User customistation.
+Add your own unique flair! 
 
 - Sexify Tree button.
+Sometimes when you're in the thick of organising your life, your tree can get a little messy. 
 
 - Onboarding.
-
+Everyone needs help learning something new!
 
 # Contribution history
 
 <p align="center">
   <img width="500" height="530" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/contributionHist.png">
 </p>
-
-
 Special thanks to Fora.digital 
 
 # Developer Documentation

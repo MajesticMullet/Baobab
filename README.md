@@ -24,9 +24,16 @@ You can ask for help here ... or try and find the easter eggs (bugs = easter egg
   <img width="300" height="500" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gifs/chatBot.gif">
 </p>
 
-- Creating multiple trees.
+- User customistation.
+Add your own unique flair! 
 
-- Gamification of Kanban Tasks.
+- Sexify Tree button. <br />
+Sometimes when you're in the thick of organising your life, your tree can get a little messy. 
+
+- Onboarding. <br />
+Everyone needs help learning something new!
+
+- Gamification of Kanban Tasks. <br />
 As you complete tasks in your kanban boards, the progress bar increases and you are encouraged by an extremely supportive message! Below is the progression as you complete a greater percentage of your tasks.
 
 <p align="center">
@@ -42,7 +49,7 @@ As you complete tasks in your kanban boards, the progress bar increases and you 
 </p>
 
 <p align="center">
-  <img width="470" height="280" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/half%20way.png">
+  <img width="470" height="280" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/work%20it.png">
 </p>
 
 <p align="center">
@@ -56,15 +63,6 @@ As you complete tasks in your kanban boards, the progress bar increases and you 
 <p align="center">
   <img width="470" height="280" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/great%20finish.png">
 </p>
-
-- User customistation.
-Add your own unique flair! 
-
-- Sexify Tree button.
-Sometimes when you're in the thick of organising your life, your tree can get a little messy. 
-
-- Onboarding.
-Everyone needs help learning something new!
 
 # Contribution history
 

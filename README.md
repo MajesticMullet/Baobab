@@ -3,6 +3,90 @@
 Baobab is a tree based planning tool. The purpose of Baobab is to simplify and combine long term and short term planning. Our team overcame the drawbacks of currently available planning tools by creating a coherent product that allows users to effectively visualise their long term goal planning, whilst encouraging the management of low level tasks that are required to achieve the larger goals. Baobab is designed with usability, customisations and integrations in mind to provide a streamlined user experience.
 Baobab was created as a capstone project by UNSW students (Nanway Chen, Thomas Ho, Harry Brink, Alexander Jones, Conrad Martin)
 
+# Usage
+You can create sections of a tree to match the sections of your life. For example, University could be your root node and the main branches could be subjects and societies. 
+
+<p align="center">
+  <img width="900" height="500" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gifs/creating%20tree.gif">
+</p>
+
+You can then connect these branches to queue nodes where you can create Kanban boards or nested trees.
+
+<p align="center">
+  <img width="900" height="500" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gifs/queuenodes.gif">
+</p>
+
+This is a Kanban board, here you're limited to only having one task in your doing row to maximise focus! 
+
+<p align="center">
+  <img width="900" height="500"" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gifs/kanban%20ur%20mum.gif">
+</p>
+
+# Additional Features
+- Baobot (Chatbot).
+You can ask for help here ... or try and find the easter eggs (bugs = easter eggs) and ask for motivation.
+
+<p align="center">
+  <img width="300" height="500" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gifs/chatBot.gif">
+</p>
+
+- User customistation.
+Add your own unique flair! 
+
+<p align="center">
+  <img width="900" height="500" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gifs/colourful%20babye.gif">
+</p>
+
+
+- Sexify Tree button. Sometimes when you're in the thick of organising your life, your tree can get a little messy. 
+
+<p align="center">
+  <img width="900" height="500" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gifs/sexyfy%20tree.gif">
+</p>
+
+- Onboarding. Everyone needs help learning something new!
+
+<p align="center">
+  <img width="900" height="500" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gifs/onboarding.gif">
+</p>
+
+- Gamification of Kanban Tasks. As you complete tasks in your kanban boards, the progress bar increases and you are encouraged by an extremely supportive message! Below is the progression as you complete a greater percentage of your tasks.
+
+<p align="center">
+  <img width="470" height="280" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/a%20while%20to%20go.png"> 
+</p>
+
+<p align="center">
+  <img width="470" height="280" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/getting%20there.png">
+</p>
+
+<p align="center">
+  <img width="470" height="280" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/half%20way.png">
+</p>
+
+<p align="center">
+  <img width="470" height="280" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/work%20it.png">
+</p>
+
+<p align="center">
+  <img width="470" height="280" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/ramp%20it%20up.png">
+</p>
+
+<p align="center">
+  <img width="470" height="280" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/finish%20it.png">
+</p>
+
+<p align="center">
+  <img width="470" height="280" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/gamification/great%20finish.png">
+</p>
+
+# Contribution history
+
+<p align="center">
+  <img width="500" height="530" src="https://github.com/MajesticMullet/Baobab/blob/readmeGIF/img/contributionHist.png">
+</p>
+Special thanks to Fora.digital 
+
 # Developer Documentation
 
 First of all, make sure you have Node.js installed. You can install it from from https://nodejs.org/en/. This installation includes npm.
@@ -11,7 +95,7 @@ First of all, make sure you have Node.js installed. You can install it from from
 
 ### Running the frontend
 
-1. Clone the repository from https://github.com/unsw-cse-comp3900-9900/capstone-project-jonny-sins-the-computer-scientist
+1. Clone the repository from https://github.com/MajesticMullet/Baobab 
 2. Make sure you are in the project directory.
 3. Run the following commands:
 - `cd baobab/frontend`
